@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" fill="none">
+<g class="l1 x">
+<path stroke="#1D2A3A" stroke-width="5" d="M10 236q140-150 280 0"/>
+<path stroke="#1D2A3A" stroke-width="3" d="M30 236q120-118 240 0"/>
+<path stroke="#1D2A3A" stroke-width="1.5" d="M40 214l14 22M54 196l14 40M70 180l14 56M88 168l14 68M106 160l14 76M124 156l14 80M140 155l14 81M158 156l14 80M176 160l14 76M194 168l14 68M212 180l14 56M228 196l14 40M244 214l14 22"/>
+<path fill="#1D2A3A" d="M0 236h300v6H0zM0 210h22v26H0zM278 210h24v26h-24z"/>
+</g>
+<g class="l2">
+<path fill="#1D2A3A" d="M300 272h290v14H300z"/>
+<path fill="#F6F1E7" stroke="#1D2A3A" stroke-width="3" stroke-linejoin="round" d="M330 272q10-80 74-108q-8 60-20 108zM384 272q20-96 92-128q-12 70-40 128zM436 272q26-80 92-96q-18 60-44 96zM494 272q18-50 66-58q-12 34-30 58z"/>
+<path stroke="#1D2A3A" stroke-width="1.5" d="M352 270q14-50 46-90M406 270q20-60 64-106M458 270q22-50 64-80M512 270q14-28 44-44"/>
+</g>
+<g class="l3" fill="#0077B6">
+<path d="M0 300q40-26 80-8t80 0 80 0 80 0 80 0 80 0 120 0v28H0z"/>
+<path class="x" d="M40 300q-6-40 30-52q30-8 44 14q-24-6-32 12q20 2 22 26z"/>
+</g>
+<path stroke="#1D2A3A" stroke-width="2" d="M0 300h600"/>
+</svg>

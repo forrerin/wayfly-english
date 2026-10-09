@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://forrerin.github.io/wayfly-english/sitemap.xml

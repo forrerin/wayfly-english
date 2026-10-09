@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" fill="none">
+<g class="l1">
+<circle cx="300" cy="300" r="150" fill="#E9C46A" opacity=".35"/>
+<circle cx="300" cy="300" r="110" fill="#E9C46A"/>
+<path stroke="#E9C46A" stroke-width="4" stroke-linecap="round" d="M300 120v-30M176 172l-22-22M424 172l22-22M120 260H90M480 260h30"/>
+</g>
+<g class="l2">
+<circle cx="300" cy="226" r="74" fill="#F6F1E7" stroke="#1D2A3A" stroke-width="3"/>
+<path stroke="#1D2A3A" stroke-width="1.5" d="M226 226h148M300 152v148M300 152q-44 74 0 148M300 152q44 74 0 148M236 190h128M236 262h128"/>
+<path fill="#1D2A3A" d="M262 176q22-8 30 6t-8 22q-10 6-6 16t-10 12q-14-4-14-22t8-34zM316 196q20-6 30 10t-6 30q-12 10-18 0t-6-40zM330 260q14-4 22 6t-8 14q-12 0-14-20z"/>
+</g>
+<g class="l3">
+<path stroke="#1D2A3A" stroke-width="2" stroke-dasharray="6 8" d="M196 230q-10-90 104-96q120 0 108 100"/>
+<path fill="#1D2A3A" d="M408 214l3 0 6 12 10 0q4 1 0 3l-10 0-6 12-3 0 3-12-6 0-3 4-2 0 2-5-2-5 2 0 3 4 6 0z" transform="rotate(100 410 228)"/>
+</g>
+<path stroke="#1D2A3A" stroke-width="2" d="M0 300h600"/>
+</svg>

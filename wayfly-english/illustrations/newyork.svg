@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" fill="none">
+<defs><pattern id="nyw" width="12" height="14" patternUnits="userSpaceOnUse"><rect x="3" y="3" width="5" height="7" fill="#F6F1E7"/></pattern></defs>
+<g class="l1">
+<path fill="#1D2A3A" d="M178 0h4v28h-4zM172 28h16v20h-16zM164 48h32v30h-32zM154 78h52v222h-52z"/>
+<path fill="#1D2A3A" class="x" d="M20 300V150h56v150zM84 300V100h58v200zM218 300V130h50v170zM276 300V170h46v130z"/>
+<path fill="url(#nyw)" d="M158 84h44v206h-44z"/>
+<path fill="url(#nyw)" class="x" d="M24 158h48v132H24zM88 108h50v182H88zM222 138h42v152h-42zM280 178h38v112h-38z"/>
+<path fill="#1D2A3A" class="x" d="M84 100l29-26 29 26z"/>
+</g>
+<g class="l2 taxi" data-egg="taxi">
+<path fill="#FFC300" d="M330 272v-26q0-6 6-8l26-8 18-22q4-4 10-4h62q6 0 10 4l20 26 34 6q8 2 8 10v22z"/>
+<path fill="#1D2A3A" d="M396 214h26v24h-36zM430 214h28l14 24h-42z"/>
+<rect x="404" y="196" width="34" height="12" rx="3" fill="#1D2A3A"/>
+<text x="421" y="205.5" fill="#FFC300" font-family="JetBrains Mono,monospace" font-weight="700" font-size="9" text-anchor="middle">TAXI</text>
+<path fill="#1D2A3A" d="M340 252h194v8H340z"/>
+<path fill="#FFC300" d="M346 253h8v6h-8zM362 253h8v6h-8zM378 253h8v6h-8zM394 253h8v6h-8zM410 253h8v6h-8zM426 253h8v6h-8zM442 253h8v6h-8zM458 253h8v6h-8zM474 253h8v6h-8zM490 253h8v6h-8zM506 253h8v6h-8zM522 253h8v6h-8z"/>
+<circle cx="370" cy="280" r="17" fill="#1D2A3A"/><circle cx="370" cy="280" r="6" fill="#F6F1E7"/>
+<circle cx="500" cy="280" r="17" fill="#1D2A3A"/><circle cx="500" cy="280" r="6" fill="#F6F1E7"/>
+</g>
+<g class="l3 tlight" data-egg="tlight">
+<path stroke="#1D2A3A" stroke-width="6" d="M572 300V196"/>
+<rect x="556" y="120" width="32" height="80" rx="8" fill="#1D2A3A"/>
+<circle class="tl-red" cx="572" cy="138" r="9" fill="#C8553D"/>
+<circle class="tl-yellow" cx="572" cy="160" r="9" fill="#F6F1E7" opacity=".25"/>
+<circle class="tl-green" cx="572" cy="182" r="9" fill="#F6F1E7" opacity=".25"/>
+</g>
+<path stroke="#1D2A3A" stroke-width="2" d="M0 300h600"/>
+</svg>

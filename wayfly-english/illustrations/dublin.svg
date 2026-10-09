@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" fill="none"><style>.gull{opacity:0}</style>
+<g class="l1">
+<path fill="#2A9D8F" opacity=".35" d="M0 210q90-70 190-20t210-10 200 10V300H0z"/>
+<path fill="#2A9D8F" opacity=".7" class="x" d="M0 250q120-50 240-6t220-8 140 4V300H0z"/>
+<path fill="#1D2A3A" d="M470 174h112v126H470z"/>
+<path fill="#1D2A3A" d="M462 166h128v12H462z"/>
+<path fill="#F6F1E7" d="M482 190h28v26h-28zM542 190h28v26h-28zM482 232h28v26h-28z"/>
+<rect x="536" y="232" width="34" height="68" rx="17" fill="#2A9D8F"/>
+<path stroke="#1D2A3A" stroke-width="3" d="M470 150h-34M444 150v12"/>
+<rect x="418" y="160" width="52" height="30" rx="3" fill="#2A9D8F"/>
+<text x="444" y="181" fill="#F6F1E7" font-family="Unbounded,Arial,sans-serif" font-weight="800" font-size="15" text-anchor="middle">PUB</text>
+</g>
+<g class="l2">
+<path stroke="#1D2A3A" stroke-width="5" stroke-linecap="round" d="M120 262q140-62 280 0"/>
+<path stroke="#1D2A3A" stroke-width="3" d="M132 276q128-50 256 0"/>
+<path stroke="#1D2A3A" stroke-width="1.6" d="M150 255v14M170 247v17M190 240v19M210 235v20M230 232v20M250 230v21M270 229v21M290 229v21M310 230v20M330 232v19M350 236v17M370 242v16M390 250v14"/>
+<path stroke="#1D2A3A" stroke-width="1.4" d="M150 255l20 9M170 247l20 12M190 240l20 15M210 235l20 17M230 232l20 19M250 230l20 21M290 229l20 21M310 230l20 19M330 232l20 17M350 236l20 15M370 242l20 12"/>
+<path stroke="#1D2A3A" stroke-width="3" d="M200 238q16-34 32 0M268 228q16-34 32 0M336 236q16-34 32 0"/>
+<circle cx="216" cy="210" r="5" fill="#2A9D8F"/><circle cx="284" cy="200" r="5" fill="#2A9D8F"/><circle cx="352" cy="208" r="5" fill="#2A9D8F"/>
+</g>
+<g class="l3" stroke="#2A9D8F" stroke-width="2.5" stroke-linecap="round">
+<path d="M40 290q15-8 30 0t30 0M150 300q15-8 30 0t30 0M300 292q15-8 30 0t30 0"/>
+</g>
+<g class="gull" data-egg="gull"><path stroke="#1D2A3A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M0 0q10-10 20 0q10-10 20 0"/></g>
+<path stroke="#1D2A3A" stroke-width="2" d="M0 300h600"/>
+</svg>

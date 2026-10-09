@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" fill="none"><style>.umbrella-open,.rain{opacity:0}</style>
+<g class="l1">
+<path fill="#1D2A3A" d="M100 0l4 30h-8zM84 38h32l-4-8H88zM80 38h40v32H80zM74 70h52v62H74zM78 132h44v168H78z"/>
+<circle cx="100" cy="101" r="19" fill="#F6F1E7"/><circle cx="100" cy="101" r="14" stroke="#1D2A3A" stroke-width="1.5"/>
+<path stroke="#1D2A3A" stroke-width="2.5" stroke-linecap="round" d="M100 101V91M100 101l7 4"/>
+<path stroke="#F6F1E7" stroke-width="2" d="M88 146v40M96 146v40M104 146v40M112 146v40M88 200v40M96 200v40M104 200v40M112 200v40M88 254v34M100 254v34M112 254v34M88 46v16M96 46v16M104 46v16M112 46v16"/>
+<path fill="#1D2A3A" d="M74 70l-4-10h4zM126 70l4-10h-4z"/>
+<path fill="#1D2A3A" class="x" d="M20 300V214h40v86zM28 214l12-22 12 22z"/>
+<path stroke="#F6F1E7" stroke-width="2" class="x" d="M30 226v14M40 226v14M50 226v14M30 252v14M40 252v14M50 252v14"/>
+</g>
+<g class="l2">
+<rect x="250" y="168" width="272" height="116" rx="14" fill="#E63946"/>
+<path fill="#1D2A3A" d="M250 222h272v6H250z"/>
+<path fill="#F6F1E7" d="M266 180h40v30h-40zM314 180h40v30h-40zM362 180h40v30h-40zM410 180h40v30h-40zM458 180h48v30h-48zM266 236h40v30h-40zM314 236h40v30h-40zM362 236h40v30h-40zM410 236h34v48h-34zM458 236h48v26h-48z"/>
+<rect x="470" y="164" width="44" height="12" rx="3" fill="#1D2A3A"/>
+<circle cx="300" cy="286" r="17" fill="#1D2A3A"/><circle cx="300" cy="286" r="6" fill="#F6F1E7"/>
+<circle cx="476" cy="286" r="17" fill="#1D2A3A"/><circle cx="476" cy="286" r="6" fill="#F6F1E7"/>
+</g>
+<g class="l3 x">
+<rect x="168" y="190" width="52" height="12" rx="5" fill="#E63946"/>
+<rect x="172" y="200" width="44" height="100" rx="2" fill="#E63946"/>
+<rect x="178" y="205" width="32" height="7" fill="#F6F1E7"/>
+<path fill="#F6F1E7" d="M180 218h12v12h-12zM196 218h12v12h-12zM180 234h12v12h-12zM196 234h12v12h-12zM180 250h12v12h-12zM196 250h12v12h-12z"/>
+</g>
+<g class="l3 umbrella" data-egg="umbrella">
+<g class="umbrella-closed"><path stroke="#1D2A3A" stroke-width="3" stroke-linecap="round" d="M560 300l14-76"/><path fill="#1D2A3A" d="M574 224l-10 46 8 2 10-46z"/><path stroke="#1D2A3A" stroke-width="3" stroke-linecap="round" d="M560 300a6 6 0 0 1-8-4"/></g>
+<g class="umbrella-open"><path fill="#E63946" d="M520 228a48 30 0 0 1 96 0q-12-8-24 0-12-8-24 0-12-8-24 0-12-8-24 0z"/><path stroke="#1D2A3A" stroke-width="3" stroke-linecap="round" d="M568 198v94a7 7 0 0 1-12 2"/></g>
+</g>
+<g class="rain" stroke="#1D2A3A" stroke-width="1.5" stroke-linecap="round" opacity=".5"><path d="M530 120l-4 14M560 100l-4 14M590 130l-4 14M545 160l-4 14M600 90l-4 14M515 80l-4 14"/></g>
+<path stroke="#1D2A3A" stroke-width="2" d="M0 300h600"/>
+</svg>
